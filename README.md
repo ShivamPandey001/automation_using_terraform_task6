@@ -37,3 +37,4 @@ Minikube is an open-source tool that helps to run Kubernetes on a local computer
 Let’s start
 It will launch the Wordpress Application.
 Wordpress.tf file:-
+![t1](https://user-images.githubusercontent.com/54200130/92209893-67696480-eeab-11ea-9b04-b3dc0be7c3f7.jpeg)
