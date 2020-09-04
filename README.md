@@ -38,3 +38,4 @@ Let’s start
 It will launch the Wordpress Application.
 Wordpress.tf file:-
 ![t1](https://user-images.githubusercontent.com/54200130/92209893-67696480-eeab-11ea-9b04-b3dc0be7c3f7.jpeg)
+![t2](https://user-images.githubusercontent.com/54200130/92210263-068e5c00-eeac-11ea-999c-0fc26c3ac59a.jpeg)
