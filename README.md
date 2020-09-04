@@ -52,3 +52,5 @@ After writing the terraform code. We have to run the command:
   terraform init 
 
   terraform apply --auto-approve
+  ![WhatsApp Image 2020-09-02 at 12 14 27 AM](https://user-images.githubusercontent.com/54200130/92210736-ea3eef00-eeac-11ea-9f03-bbf0e06a0b97.jpeg)
+
