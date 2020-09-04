@@ -80,4 +80,4 @@ Now Open minikube-nodes-ip:40000 and proceed with installation wizard:
 ![WhatsApp Image 2020-09-02 at 12 14 29 AM (1)](https://user-images.githubusercontent.com/54200130/92211691-77367800-eeae-11ea-95f4-acfd41741a7b.jpeg)
 
 
-Thanka Alot for Giving Your Time..
+Thanks Alot for Giving Your Time..
