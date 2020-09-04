@@ -46,3 +46,4 @@ databasesql.tf file:-
 
 3. It will provide the IP to connect to Wordpress.
 main.tf files:-
+![t4](https://user-images.githubusercontent.com/54200130/92210589-a2b86300-eeac-11ea-9931-e4f0748a676e.jpeg)
