@@ -42,3 +42,4 @@ Wordpress.tf file:-
 
 2. It will create the RDS on top of AWS.
 databasesql.tf file:-
+![t3](https://user-images.githubusercontent.com/54200130/92210417-4ce3bb00-eeac-11ea-8bc6-67b021955575.jpeg)
