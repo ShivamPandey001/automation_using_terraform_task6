@@ -67,3 +67,17 @@ Now to get the IP for WordPress. In the command line type:
   minikube service list
   
   kubectl get all
+  ![t7](https://user-images.githubusercontent.com/54200130/92211423-13ac4a80-eeae-11ea-9244-e565ef03ad0f.jpeg)
+
+Now Open minikube-nodes-ip:40000 and proceed with installation wizard:
+
+![t8](https://user-images.githubusercontent.com/54200130/92211532-3a6a8100-eeae-11ea-9542-53cee44e89ba.jpeg)
+
+
+![t9](https://user-images.githubusercontent.com/54200130/92211585-50784180-eeae-11ea-9a39-88f66e6ac659.jpeg)
+
+
+![WhatsApp Image 2020-09-02 at 12 14 29 AM (1)](https://user-images.githubusercontent.com/54200130/92211691-77367800-eeae-11ea-95f4-acfd41741a7b.jpeg)
+
+
+Thanka Alot for Giving Your Time..
