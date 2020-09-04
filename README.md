@@ -56,3 +56,14 @@ After writing the terraform code. We have to run the command:
   
   ![WhatsApp Image 2020-09-02 at 12 14 27 AM](https://user-images.githubusercontent.com/54200130/92210736-ea3eef00-eeac-11ea-9f03-bbf0e06a0b97.jpeg)
 
+If you get everything green then you are on the right track and everything works fine. Also, we have deployed WordPress as a container on the top of Minikube.
+
+![WhatsApp Image 2020-09-02 at 12 14 27 AM (1)](https://user-images.githubusercontent.com/54200130/92210969-515ca380-eead-11ea-8499-0c94507099a1.jpeg)
+
+Now to get the IP for WordPress. In the command line type:
+
+  minikube ip
+  
+  minikube service list
+  
+  kubectl get all
